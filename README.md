@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou focado em minha StartUp<br>👯 Gostaria de colaborar com uma boa empresa<br>🤝 Procurando ajuda sobre o mercado de trabalho<br>🌱 Atualmente estudando C e Java
+🔭 Estou focado em minha StartUp<br>👯 Gostaria de colaborar com uma boa empresa<br>🤝 Procurando ajuda sobre o mercado de trabalho<br>🌱 Atualmente estudando padrões de projeto, framework e API.
 
 
 ## 🌐 Socials:
