@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Estou focado em minha StartUp<br>👯 Gostaria de colaborar com uma boa empresa<br>🤝 Procurando ajuda sobre o mercado de trabalho<br>🌱 Atualmente estudando padrões de projeto, framework e API.
+# 💫 Sobre mim:
+🔭 Estou focado em meu projeto **ByteSquad**<br>👯 Gostaria de colaborar com uma boa equipe de desenvolvimento<br>🤝 Procurando ajuda sobre Laravel<br>🌱 Atualmente estudando padrões de projeto, API, FRAMEWORK, PHP e Laravel.
 
 
 ## 🌐 Socials:
