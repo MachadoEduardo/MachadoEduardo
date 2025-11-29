@@ -1,5 +1,5 @@
 # 💫 About me:
-🔭 I'm focused on my main projects: **ByteSquad** & **MindPlan**.<br>👯 I'd like to collaborate with a good development team!<br>🤝 Looking for help on Laravel.<br>🌱 
+🔭 I'm focused on my main projects: **FretUp** & **ToDoList**.<br>👯 I'd like to collaborate with a good development team!<br>🤝 Looking for help on Laravel and React.js.<br>🌱 
 Currently studying about design patterns, API, Framework, PHP and Laravel.
 
 
